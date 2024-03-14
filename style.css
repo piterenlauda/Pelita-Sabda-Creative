@@ -1,0 +1,82 @@
+
+
+.nav-link {
+    color: #280274 !important;
+    font-family: "Plus Jakarta Sans", sans-serif !important;
+    font-optical-sizing: auto !important;
+    font-weight: 400 !important;
+    font-style: normal !important;
+}
+
+.nav-link:hover {
+    color: #FE7A36 !important;
+}
+
+.current-page {
+    color: #FE7A36 !important;
+}
+
+.btn-outline-primary {
+    border-color: #3652AD !important;
+    color: #3652AD !important;
+    font-family: "Plus Jakarta Sans", sans-serif !important;
+    font-optical-sizing: auto !important;
+    font-weight: 400 !important;
+    font-style: normal !important;
+}
+
+.btn-outline-primary:hover {
+    border-color: #280274 !important;
+    background-color: #280274 !important;
+    color: #E9F6FF !important;
+}
+
+.btn-primary {
+    border-color: #3652AD !important;
+    background-color: #3652AD !important;
+    font-family: "Plus Jakarta Sans", sans-serif !important;
+    font-optical-sizing: auto !important;
+    font-weight: 400 !important;
+    font-style: normal !important;
+}
+
+.btn-primary:hover {
+    border-color: #280274 !important;
+    background-color: #280274 !important;
+}
+
+p {
+    text-align: justify !important;
+    color: #280274 !important;
+    font-family: "Plus Jakarta Sans", sans-serif !important;
+    font-optical-sizing: auto !important;
+    font-weight: 400 !important;
+    font-style: normal !important;
+}
+
+span {
+    color: #FE7A36;
+}
+
+h1 {
+    color: #280274 !important;
+    font-family: "Plus Jakarta Sans", sans-serif !important;
+    font-optical-sizing: auto !important;
+    font-weight: 800 !important;
+    font-style: bold !important;
+}
+
+.top-border {
+    background-color: #280274;
+    margin-bottom: 2rem;
+    height: 10px !important;
+    width: 280px !important;
+}
+
+.font-primary-color {
+    color: #280274 !important;
+}
+
+.font-secondary-color {
+    color: #3652AD !important;
+}
